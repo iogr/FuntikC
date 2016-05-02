@@ -4,7 +4,7 @@ Programming language based on the one-liners from Porosyonok Funtik cartoon.
 
 ##Motivation
 
-Although the one-liners of Funtik, as wel as Fokus-Mokus, Bombino, and, of course, Gospoga Beladonna are fairly well known the true semantics of the uttering is yet to be understood. This project tries to discover new meanings from Marx works with the means of computer science.
+Although the one-liners of Funtik, as well as Fokus-Mokus, Bombino, and, of course, Gospoga Beladonna are fairly well known the true semantics of the uttering is yet to be understood. This project tries to discover new kabbalistic meanings from Funtik with the means of computer science.
 
 HelloWorld.funtikc
 
