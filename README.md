@@ -44,7 +44,7 @@ Brief overview of the keywords
 
    AssignVariable - "ДОХРЮКАЛСЯ"
 
-   Setue - "ДАМА ПРИЯТНОЙ НАРУЖНОСТИ"
+   SetValue - "ДАМА ПРИЯТНОЙ НАРУЖНОСТИ"
 
    EndAssignVariable - "ПОРОСЕНОК АРЕСТОВАН! ЯЩИК — КОНФИСКОВАН"
 
@@ -66,7 +66,7 @@ Brief overview of the keywords
 
    EndIf - "ЩЕКОТКИ БОИТСЯ, НО КУШАЕТ ХОРОШО"
 
-   While - "А ЦИРКАЧЕЙ - В ЦИРКЕ"
+   While - "ВНЮХНИ"
 
    EndWhile - "ВЫНЮХНИ"
 

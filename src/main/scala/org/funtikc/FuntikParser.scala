@@ -31,7 +31,7 @@ class FuntikParser extends Parser {
   val If = "ГДЕ НАДО ЛОВИТЬ РЫБУ"
   val Else = "АРТИСТ — ЭТО ЗВУЧИТ ГОРДО"
   val EndIf = "ЩЕКОТКИ БОИТСЯ, НО КУШАЕТ ХОРОШО"
-  val While = "А ЦИРКАЧЕЙ - В ЦИРКЕ"
+  val While = "ВНЮХНИ"
   val EndWhile = "ВЫНЮХНИ"
   val DeclareMethod = "ФОКУСЫ — ЭТО ЛОВКОСТЬ РУК И НИКАКОГО МОШЕНСТВА"
   val MethodArguments = "ЛУЧШИЙ КОФЕ НА ДОРОГЕ: ОТХЛЕБНЕШЬ — ПРОТЯНЕШЬ НОГИ"
